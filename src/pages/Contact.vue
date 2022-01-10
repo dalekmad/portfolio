@@ -43,7 +43,7 @@
           <a href="https://twitter.com/dalekmad"> Follow me</a> on Twitter.
         </p>
         <p class="is-size-5">
-          <a href="mailto:hello@vanessagreene.ie"> Connect with me</a> via email. 
+          Connect with me via email: <a href="mailto:hello@vanessagreene.ie"> hello@vanessagreene.ie</a>
         </p>
               
       </div>

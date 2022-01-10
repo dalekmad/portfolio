@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "role": "Community Support & Experience Coordinator",
+        "company": "CoderDojo Foundation",
+        "description": "Support lead for CoderDojo, supporting a global community of volunteers to run free coding clubs for young people aged 7-17."
+    },
+    {
+        "id": 2,
+        "role": "Administrator & Assistant Event Coordinator",
+        "company": "BT Young Scientist & Technology Exhibition",
+        "description": "Customer support lead and assistant coordinator for The Primary Science Fair 2019."
+    },
+    {
+        "id": 3,
+        "role": "Marketing & Events Coordinator",
+        "company": "Dublin Tech Summit",
+        "description": "Lead marketer & event assistant administrator for Dublin Tech Summit 2018."
+    },
+    {
+        "id": 4,
+        "role": "Media team lead",
+        "company": "Coolest Projects International showcase",
+        "description": "Volunteer media team lead for the Coolest Projects International showcase in 2017 and content creator for the event between 2015 & 2019."
+    }
+]

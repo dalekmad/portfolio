@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Vue-Do",
+        "description": "This was my first Vue.js app, where I created a small to-do list application.",
+        "website": "",
+        "tags": [
+            "vue.js"
+        ],
+        "image": "",
+        "date": "2021",
+        "demo": "vue-do",
+        "github": ""
+        
+    },
+    {
+        "id": 2,
+        "title": "Gif Finder",
+        "description": "A vue.js web application to search for gifs, using the Giphy API.",
+        "website": "",
+        "tags": [
+            "vue.js", "Buefy"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/gifs.png?alt=media&token=42e8d224-997b-4c51-b6c6-76c732e09de9",
+        "date": "2021",
+        "demo": "giphy_gif",
+        "github": ""
+        
+    },
+    {
+        "id": 3,
+        "title": "Focus Time",
+        "description": "This project was designed to work as a small second screen in my home office. With the option to change up the clock face depending on my mood.",
+        "website": "https://vanessagreene.ie/clock/",
+        "tags": [
+            "Javascript", "Bootstrap"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/focus_clock.png?alt=media&token=a7ec7802-957a-4da6-b54d-062bd6b6837b",
+        "date": "2021",
+        "demo": "",
+        "github": ""
+        
+    },
+    {
+        "id": 4,
+        "title": "CSS Scrapbook",
+        "description": "This project was inspired by bullet journaling and new years goals.",
+        "website": "https://vanessagreene.ie/scrapbook/",
+        "tags": [
+            "CSS"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/scrappy_css.png?alt=media&token=7669f78c-5c93-4bfe-8968-e7f8109c722a",
+        "date": "2021",
+        "demo": "",
+        "github": ""
+        
+    },
+    {
+        "id": 5,
+        "title": "Global Bike Services",
+        "description": "A web application to explore global bike sharing services across the globle.",
+        "website": "",
+        "tags": [
+            "vue.js"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/global_bike_services_2.png?alt=media&token=2b94134c-b04a-429c-919f-77387df74c82",
+        "date": "2021",
+        "demo": "",
+        "github": "https://github.com/dalekmad/FED-CA-One"
+        
+    },
+    {
+        "id": 6,
+        "title": "Breathe in: Pico Project",
+        "description": "A relaxation project using a Raspberry Pi Pico and pimoroni pico display.",
+        "website": "https://www.tiktok.com/@echoingstem/video/6984895882906946821",
+        "tags": [
+            "vue.js"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/breathe_in.png?alt=media&token=969f5fd9-0873-41da-b0de-3b7df2ba7038",
+        "date": "2021",
+        "demo": "",
+        "github": "https://gist.github.com/dalekmad/aa882580d6fba0e520e636d67263ab80"
+        
+    },
+    {
+        "id": 7,
+        "title": "Echoing STEM",
+        "description": "Echoing STEM is a YouTube channel and blog dedicated to inspiring people to get involved with STEM subjects. Currently on hiatus.",
+        "website": "https://echoingstem.wordpress.com/",
+        "tags": [
+            "Video production"
+        ],
+        "image": "",
+        "date": "2017",
+        "demo": "",
+        "github": ""
+        
+    },
+    {
+        "id": 8,
+        "title": "Eureka University - Admin Management",
+        "description": "A vue.js college assignment, exploring a university management api and building out the front end application for the provided api.",
+        "website": "",
+        "tags": [
+            "vue.js", "Buefy", "College Project"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/uni_lect.png?alt=media&token=1fcff762-4a58-4856-b697-0b65d698b7fd",
+        "date": "2021",
+        "demo": "",
+        "github": "https://github.com/dalekmad/FED-CA-Two"
+        
+    },
+    {
+        "id": 9,
+        "title": "Comparing EU Countries by Area and Population",
+        "description": "Playing with tables and REST APIs. A table displaying EU ountry area vs population size, comparing other countries to Ireland's size and popuplation.",
+        "website": "",
+        "tags": [
+            "vue.js", "Buefy"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/countries_pop.png?alt=media&token=ea8f9970-f4af-4da2-b9a4-7857f47b5e83",
+        "date": "2021",
+        "demo": "",
+        "github": "https://github.com/dalekmad/eu_country_size"
+        
+    },
+    {
+        "id": 10,
+        "title": "Festival Management",
+        "description": "Playing with REST APIs and Vuex state management. No demo available.",
+        "website": "",
+        "tags": [
+            "vue.js", "vuex", "Bootstrap Vue"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/festivals.png?alt=media&token=11949fad-1dd8-43c1-84c7-2c2a3c4006b1",
+        "date": "2021",
+        "demo": "",
+        "github": ""
+        
+    }
+]

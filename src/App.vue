@@ -1,7 +1,9 @@
 <template>
   <div>
     <Navbar />
-    <router-view />
+    <div>
+      <router-view />
+    </div>
   </div>
 </template>
 
@@ -18,5 +20,5 @@ export default {
 </script>
 
 <style>
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Poppins:wght@200;300;400;500&display=swap');
 </style>

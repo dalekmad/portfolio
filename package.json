@@ -1,5 +1,5 @@
 {
-  "name": "vue-protfolio",
+  "name": "vanessa-greene",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.24.0",
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.21.2",
+    "buefy": "^0.9.14",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.5.3"
@@ -21,7 +23,8 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
     "root": true,

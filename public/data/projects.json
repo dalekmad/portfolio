@@ -45,14 +45,14 @@
         "id": 5,
         "title": "Global Bike Services",
         "description": "A web application to explore global bike sharing services across the globe.",
-        "website": "",
+        "website": "https://global-bikes-7ae78.web.app/",
         "tags": [
             "vue.js", "Bootstrap Vue"
         ],
         "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fglobal_bike_services_2.png?alt=media&token=ff8c6143-faf1-436d-ad5e-29fd5d702190",
         "date": "2021",
         "demo": "",
-        "github": "https://global-bikes-7ae78.web.app/"
+        "github": ""
         
     },
     {
@@ -87,14 +87,14 @@
         "id": 8,
         "title": "Eureka University - Admin Management",
         "description": "A vue.js college assignment, exploring a university management api and building out the front end application for the provided api.",
-        "website": "",
+        "website": "https://unimanagement-3642a.web.app/",
         "tags": [
             "vue.js", "Buefy", "College Project"
         ],
         "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Funi_lect.png?alt=media&token=93866695-fa63-4533-8a88-81f9c6e2fe4b",
         "date": "2021",
         "demo": "",
-        "github": "https://unimanagement-3642a.web.app/"
+        "github": ""
         
     },
     {

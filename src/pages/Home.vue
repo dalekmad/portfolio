@@ -1,6 +1,6 @@
 <template>
   <div class="columns">
-    <section class="column is-full hero is-large has-background-white-bis">
+    <section class="column is-full hero is-medium has-background-white-bis">
       <div class="hero-body has-background-white-bis">
         <div class="columns is-vcentered">
           <div class="column is-half">
@@ -17,7 +17,7 @@
           <div class="column is-offset-1 is-one-third">
             <span class="dot is-flex-shrink-1"></span>
             <b-image
-            :src="require('@/assets/images/vanessaImageHome.png')"
+            src="https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2FvanessaImageHome.png?alt=media&token=b42d2f26-ee01-4a8e-bf36-db090e26fee7"
             alt="headshot of Vanessa Greene"
             ratio="2by2"
             class="vgImg"
@@ -28,18 +28,23 @@
           </div>
         </div>
       </div>
+       <!--END HERO-->
+      <div>
+        <About />
+    </div>
     </section>
-    <!--END HERO-->
+   
     
   </div>
 </template>
 
 <script>
-
+import About from '@/components/About'
 
 export default {
   name: 'Home',
   components: {
+    About,
   }
 }
 </script>

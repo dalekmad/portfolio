@@ -43,12 +43,12 @@
                         v-for="project in filteredProjects"
                         :key="project.id"
                     >
-                        <div class="card block">
+                        <div class="card block has-background-white">
                             <!--card image-->
                             <div class="card-image">
                                 <figure class="image is-4by4">
                                     <img v-if="project.image" :src="project.image"/> 
-                                    <img v-else src="https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/no_image.png?alt=media&token=a3e8bca8-c827-4868-8930-a8b2c5688bab"/> 
+                                    <img v-else src="https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fno_image.png?alt=media&token=5140ab58-cd5f-4418-803b-d4aa5ec7adb2"/> 
                                 
                                 </figure>
                                 <!--<p v-if="project.image"> {{ project.image }} </p>-->

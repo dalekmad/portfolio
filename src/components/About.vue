@@ -76,7 +76,6 @@
 
 <script>
 
-
 export default {
   name: 'About',
   components: {
@@ -97,7 +96,7 @@ export default {
           .then(res => res.json())
           //catching the data from the JS object
           .then(data => {
-              console.log(data)
+              //console.log(data)
               this.experience = data
           })
       },

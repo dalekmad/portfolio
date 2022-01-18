@@ -1,5 +1,5 @@
 <template>
-  <div class="columns is-multiline block ">
+  <div class="columns is-multiline block has-background-white-bis">
     <section class="column section">
       <div class="column">
         <!--<h1 class="title"> Get in touch </h1>-->

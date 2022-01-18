@@ -1,19 +1,5 @@
 [
     {
-        "id": 1,
-        "title": "Vue-Do",
-        "description": "This was my first Vue.js app, where I created a small to-do list application.",
-        "website": "",
-        "tags": [
-            "vue.js"
-        ],
-        "image": "",
-        "date": "2021",
-        "demo": "vue-do",
-        "github": ""
-        
-    },
-    {
         "id": 2,
         "title": "Gif Finder",
         "description": "A vue.js web application to search for gifs, using the Giphy API.",
@@ -21,7 +7,7 @@
         "tags": [
             "vue.js", "Buefy"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/gifs.png?alt=media&token=42e8d224-997b-4c51-b6c6-76c732e09de9",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fgifs.png?alt=media&token=9ae497b2-a81b-4fc6-a60c-cc29e25e522b",
         "date": "2021",
         "demo": "giphy_gif",
         "github": ""
@@ -35,8 +21,8 @@
         "tags": [
             "Javascript", "Bootstrap"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/focus_clock.png?alt=media&token=a7ec7802-957a-4da6-b54d-062bd6b6837b",
-        "date": "2021",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Ffocus_clock.png?alt=media&token=f98ddf8f-0ab6-4a6b-b157-eab34fc040e3",
+        "date": "2020",
         "demo": "",
         "github": ""
         
@@ -49,7 +35,7 @@
         "tags": [
             "CSS"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/scrappy_css.png?alt=media&token=7669f78c-5c93-4bfe-8968-e7f8109c722a",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fscrappy_css.png?alt=media&token=29b4a24e-6b54-4a4f-96b6-721385e18faa",
         "date": "2021",
         "demo": "",
         "github": ""
@@ -58,15 +44,15 @@
     {
         "id": 5,
         "title": "Global Bike Services",
-        "description": "A web application to explore global bike sharing services across the globle.",
+        "description": "A web application to explore global bike sharing services across the globe.",
         "website": "",
         "tags": [
-            "vue.js"
+            "vue.js", "Bootstrap Vue"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/global_bike_services_2.png?alt=media&token=2b94134c-b04a-429c-919f-77387df74c82",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fglobal_bike_services_2.png?alt=media&token=ff8c6143-faf1-436d-ad5e-29fd5d702190",
         "date": "2021",
         "demo": "",
-        "github": "https://github.com/dalekmad/FED-CA-One"
+        "github": "https://global-bikes-7ae78.web.app/"
         
     },
     {
@@ -77,7 +63,7 @@
         "tags": [
             "vue.js"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/breathe_in.png?alt=media&token=969f5fd9-0873-41da-b0de-3b7df2ba7038",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fbreathe_in.png?alt=media&token=28b945b6-42d1-4148-b725-b71449311dd8",
         "date": "2021",
         "demo": "",
         "github": "https://gist.github.com/dalekmad/aa882580d6fba0e520e636d67263ab80"
@@ -105,10 +91,10 @@
         "tags": [
             "vue.js", "Buefy", "College Project"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/uni_lect.png?alt=media&token=1fcff762-4a58-4856-b697-0b65d698b7fd",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Funi_lect.png?alt=media&token=93866695-fa63-4533-8a88-81f9c6e2fe4b",
         "date": "2021",
         "demo": "",
-        "github": "https://github.com/dalekmad/FED-CA-Two"
+        "github": "https://unimanagement-3642a.web.app/"
         
     },
     {
@@ -119,24 +105,10 @@
         "tags": [
             "vue.js", "Buefy"
         ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/countries_pop.png?alt=media&token=ea8f9970-f4af-4da2-b9a4-7857f47b5e83",
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Fcountries_pop.png?alt=media&token=1bde9ba7-9f78-4c50-98d7-de420395d948",
         "date": "2021",
         "demo": "",
         "github": "https://github.com/dalekmad/eu_country_size"
-        
-    },
-    {
-        "id": 10,
-        "title": "Festival Management",
-        "description": "Playing with REST APIs and Vuex state management. No demo available.",
-        "website": "",
-        "tags": [
-            "vue.js", "vuex", "Bootstrap Vue"
-        ],
-        "image": "https://firebasestorage.googleapis.com/v0/b/vg-portfolio-aeb51.appspot.com/o/festivals.png?alt=media&token=11949fad-1dd8-43c1-84c7-2c2a3c4006b1",
-        "date": "2021",
-        "demo": "",
-        "github": ""
         
     }
 ]

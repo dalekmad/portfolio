@@ -9,15 +9,15 @@
       <b-navbar-item tag="router-link" :to="{name: 'home'}">
         Home
       </b-navbar-item>
-      <b-navbar-item tag="router-link" :to="{name: 'about'}">
+      <!--<b-navbar-item tag="router-link" :to="{name: 'about'}">
         About
-      </b-navbar-item>
+      </b-navbar-item>-->
       <b-navbar-item tag="router-link" :to="{name: 'projects'}">
         Projects
       </b-navbar-item>
-      <b-navbar-item tag="router-link" :to="{name: 'contact'}">
+      <!--<b-navbar-item tag="router-link" :to="{name: 'contact'}">
         Contact
-      </b-navbar-item>
+      </b-navbar-item>-->
     </template>
   </b-navbar>
 

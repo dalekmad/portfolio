@@ -23,7 +23,7 @@
         ],
         "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Ffocus_clock.png?alt=media&token=f98ddf8f-0ab6-4a6b-b157-eab34fc040e3",
         "date": "2020",
-        "demo": "",
+        "demo": "ClockApp",
         "github": ""
         
     },
@@ -109,6 +109,20 @@
         "date": "2021",
         "demo": "",
         "github": "https://github.com/dalekmad/eu_country_size"
+        
+    },
+    {
+        "id": 11,
+        "title": "Reimagining the Dublin Bus mobile app",
+        "description": "This hi-fi prototype was created as part of my certificate in User Research and UX Design. Completed across 13 weeks, in a group we researched users of various public transport apps including the Dublin Bus app, and were challenged with reimagining the app.",
+        "website": "https://www.figma.com/file/S6UEN1uSvsZAyXp9NEqLl5/VG---Group-3---Dublin-Bus-redesign?node-id=0%3A1",
+        "tags": [
+            "UX design", "Figma", "User Research"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/vg-ie-b1bb2.appspot.com/o/assets%2Ffocus_clock.png?alt=media&token=f98ddf8f-0ab6-4a6b-b157-eab34fc040e3",
+        "date": "2021",
+        "demo": "",
+        "github": ""
         
     }
 ]
